@@ -301,5 +301,5 @@
      */
     $('[data-tilt]').tilt();
 
-    return true;
+    return $;
 }));
