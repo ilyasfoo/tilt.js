@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/gijsroge/tilt.js.svg?branch=master)](https://travis-ci.org/gijsroge/tilt.js)
-
 # Tilt.js
 A tiny requestAnimationFrame powered 60+fps lightweight parallax tilt effect for jQuery. 
 
