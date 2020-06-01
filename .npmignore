@@ -1,6 +1,6 @@
 .npmignore
 .gitignore
-.git/
+.git
 .DS_Store
 .lock-*
 node_modules/
